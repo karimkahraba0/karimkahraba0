@@ -1,4 +1,6 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Karim Mohamed](https://www.diogorodrigues.dev/about)!
+<h1 align="center">Hi there<img src="https://user-images.githubusercontent.com/33700292/101157406-eec79080-35de-11eb-9543-5c57727a309b.gif" alt="Wave Emoji"  width="54px" />, I'm <br><b>Karim Mohamed</b></h1>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=AbdOoSaed&label=Visitors" alt="Visitors"/></p>
 
 I work as a ~~web designer~~ front-end developer with UI/UX design skills (front-end designer). I´m based in Dublin, Ireland.
 
